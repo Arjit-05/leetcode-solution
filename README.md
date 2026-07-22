@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arjit-05/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arjit-05/leetcode-solution/tree/master/2007-find-original-array-from-doubled-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arjit-05/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Arjit-05/leetcode-solution/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -106,4 +107,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Arjit-05/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
+## Rolling Hash
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Arjit-05/leetcode-solution/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## String Matching
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Arjit-05/leetcode-solution/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
+## Hash Function
+|  |
+| ------- |
+| [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Arjit-05/leetcode-solution/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 <!---LeetCode Topics End-->
