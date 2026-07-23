@@ -87,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Arjit-05/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Arjit-05/leetcode-solution/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Arjit-05/leetcode-solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Arjit-05/leetcode-solution/tree/master/0050-powx-n) |
 ## Simulation
 |  |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Arjit-05/leetcode-solution/tree/master/0042-trapping-rain-water) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Arjit-05/leetcode-solution/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
