@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Arjit-05/leetcode-solution/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Arjit-05/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
+| [0485-max-consecutive-ones](https://github.com/Arjit-05/leetcode-solution/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Arjit-05/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arjit-05/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arjit-05/leetcode-solution/tree/master/2007-find-original-array-from-doubled-array) |
