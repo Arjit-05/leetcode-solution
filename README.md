@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Arjit-05/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Arjit-05/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0344-reverse-string](https://github.com/Arjit-05/leetcode-solution/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Arjit-05/leetcode-solution/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Arjit-05/leetcode-solution/tree/master/0344-reverse-string) |
 | [3034-number-of-subarrays-that-match-a-pattern-i](https://github.com/Arjit-05/leetcode-solution/tree/master/3034-number-of-subarrays-that-match-a-pattern-i) |
 ## Hash Function
 |  |
