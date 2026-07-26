@@ -7,8 +7,7 @@ class Solution:
 
         for read in range(len(nums)):
             if nums[read]!=0:
-                if write !=read:
-                    nums[write],nums[read]=nums[read],nums[write]
+                nums[write],nums[read]=nums[read],nums[write]
 
                 write+=1
             
