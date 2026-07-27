@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Arjit-05/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Arjit-05/leetcode-solution/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Arjit-05/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arjit-05/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Arjit-05/leetcode-solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Arjit-05/leetcode-solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Arjit-05/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Arjit-05/leetcode-solution/tree/master/0724-find-pivot-index) |
 ## Bit Manipulation
@@ -147,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Arjit-05/leetcode-solution/tree/master/0002-add-two-numbers) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
