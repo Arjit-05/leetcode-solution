@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Arjit-05/leetcode-solution/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Arjit-05/leetcode-solution/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/Arjit-05/leetcode-solution/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/Arjit-05/leetcode-solution/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arjit-05/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arjit-05/leetcode-solution/tree/master/2007-find-original-array-from-doubled-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Arjit-05/leetcode-solution/tree/master/0011-container-with-most-water) |
+| [0561-array-partition](https://github.com/Arjit-05/leetcode-solution/tree/master/0561-array-partition) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arjit-05/leetcode-solution/tree/master/2007-find-original-array-from-doubled-array) |
 ## Binary Search
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Arjit-05/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Arjit-05/leetcode-solution/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Arjit-05/leetcode-solution/tree/master/0268-missing-number) |
+| [0561-array-partition](https://github.com/Arjit-05/leetcode-solution/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Arjit-05/leetcode-solution/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2007-find-original-array-from-doubled-array](https://github.com/Arjit-05/leetcode-solution/tree/master/2007-find-original-array-from-doubled-array) |
 ## Counting
@@ -154,4 +157,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Arjit-05/leetcode-solution/tree/master/0209-minimum-size-subarray-sum) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/Arjit-05/leetcode-solution/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
